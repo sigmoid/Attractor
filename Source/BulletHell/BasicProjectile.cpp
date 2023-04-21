@@ -8,6 +8,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "ParticleDefinitions.h"
 #include <algorithm>
+#include <cmath>
 
 // Sets default values
 ABasicProjectile::ABasicProjectile()
